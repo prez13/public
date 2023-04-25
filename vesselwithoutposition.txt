@@ -1,2 +1,3 @@
 VesselName,VesselIMONo,VoyageStatus,VesselCode,VoyageNo,URL,CompanyCode,LobCode,VesselVesselType,CommenceDateGmt,FirstLoadPort,LastDischargePort,CurrentPortName,NextPortName,CompleteDateGmt,ReportVoyage,Voyagetype,Headowner,TechnicalOperator
 VESSELNAME2,353535,Scheduled,S9999,99999,https://example.com,9999,ABC,AB,2023-03-30T04:00:00,PORTA,PORTB,,,2023-04-22T03:57:00,Y,Spot,,
+VESSELNAME3,454545,Scheduled,S8888,88888,https://example.com,8888,EDF,EF,2023-03-30T04:00:00,PORTC,PORTD,,,2023-04-22T03:57:00,Y,Spot,,
